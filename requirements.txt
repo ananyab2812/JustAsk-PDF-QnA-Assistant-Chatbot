@@ -8,3 +8,4 @@ PyPDF2
 pypdf
 sentence-transformers
 huggingface-hub
+faiss-cpu
