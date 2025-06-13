@@ -1,11 +1,12 @@
 streamlit
 langchain
 langchain-community
-openai
-tiktoken
 transformers
-PyPDF2
-pypdf
 sentence-transformers
-huggingface-hub
 faiss-cpu
+pypdf
+huggingface-hub
+torch
+accelerate
+scikit-learn
+numpy
