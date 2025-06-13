@@ -1,0 +1,7 @@
+streamlit
+langchain
+faiss-cpu
+transformers
+sentence-transformers
+huggingface-hub
+torch
