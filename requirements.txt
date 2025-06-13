@@ -4,3 +4,4 @@ langchain-community
 PyPDF2
 openai
 tiktoken
+transformers
