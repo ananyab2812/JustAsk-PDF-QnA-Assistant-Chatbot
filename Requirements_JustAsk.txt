@@ -1,7 +1,7 @@
-streamlit
-langchain
+streamlit>=1.35
+langchain>=0.1.14
+langchain-community>=0.0.18
+sentence-transformers
 faiss-cpu
 transformers
-sentence-transformers
-huggingface-hub
 torch
