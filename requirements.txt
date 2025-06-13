@@ -1,7 +1,10 @@
 streamlit
 langchain
 langchain-community
-PyPDF2
 openai
 tiktoken
 transformers
+PyPDF2
+pypdf
+sentence-transformers
+huggingface-hub
